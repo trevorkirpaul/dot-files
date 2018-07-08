@@ -1,0 +1,41 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Night Owl",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.shellArgs.osx": [],
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.cursorStyle": "block",
+    "workbench.statusBar.feedback.visible": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "window.zoomLevel": -1,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeightBold": "400",
+    "workbench.iconTheme": "material-icon-theme",
+    "gitlens.historyExplorer.enabled": true,
+    "material-icon-theme.folders.color": "#ef5350",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": true,
+    "editor.minimap.enabled": false
+}
