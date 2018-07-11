@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "block",
+    "window.menuBarVisibility": "hidden",
+    "workbench.activityBar.visible": false,
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "Fira Code",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 16,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.enablePreview": false,
+    "editor.lineHeight": 25,
+    "workbench.statusBar.feedback.visible": false,
+    "editor.letterSpacing": 0,
+    "editor.wordWrap": "wordWrapColumn",
+    "material-icon-theme.folders.color": "#ef5350",
+    "material-icon-theme.showReloadMessage": false,
+    "window.enableMenuBarMnemonics": true
+}
