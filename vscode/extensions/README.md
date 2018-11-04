@@ -14,6 +14,8 @@ Until I figure out how to automate installing extensions, this document will con
 
 - dsznajder.es7-react-js-snippets
 
+- dunstontc.viml
+
 - eamodio.gitlens
 
 - esbenp.prettier-vscode
