@@ -40,5 +40,7 @@ Until I figure out how to automate installing extensions, this document will con
 
 - sdras.night-owl
 
+- Tyriar.sort-lines
+
 - Zignd.html-css-class-completion
 
