@@ -21,4 +21,10 @@ Plug 'nanotech/jellybeans.vim', { 'tag': 'v1.6' }
 
 call plug#end()
 
+" colorscheme / theming
+
+let g:lightline = {
+	\ 'colorscheme': 'jellybeans',
+	\}
+
 :colorscheme jellybeans
