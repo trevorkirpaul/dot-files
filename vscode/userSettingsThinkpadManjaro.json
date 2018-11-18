@@ -6,7 +6,7 @@
   "editor.fontWeight": "400",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "workbench.colorTheme": "Night Owl",
+  "workbench.colorTheme": "Nebula",
   "workbench.startupEditor": "none",
   "editor.cursorStyle": "block",
   "workbench.statusBar.feedback.visible": false,
