@@ -1,6 +1,16 @@
 source ~/antigen.zsh
 
+# Use Insiders VSCode with code
 alias code="code-insiders"
+
+# Open location in GUI file browser
+alias open="xdg-open"
+
+# List branches in descending order of latest commit
+alias gbLatest="git branch --sort=-committerdate"
+
+# ssh into tkirpaul@gmail digital ocean vps: headless-cms
+alias ssh-headless-cms="ssh trevor@68.183.106.3"
 
 xcape -e 'Control_L=Escape'
 
