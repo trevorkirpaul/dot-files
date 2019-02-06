@@ -1,0 +1,51 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Night Owl No Italics",
+  "workbench.startupEditor": "none",
+  "editor.cursorStyle": "block",
+  "workbench.statusBar.feedback.visible": false,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeightBold": "400",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.color": "#ef5350",
+  "material-icon-theme.activeIconPack": "react_redux",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.snippetSuggestions": "top",
+  "workbench.editor.showTabs": true,
+  "editor.minimap.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.labelFormat": "medium",
+  "editor.renderIndentGuides": true,
+
+  "breadcrumbs.enabled": true,
+
+  "window.titleBarStyle": "custom",
+  "window.menuBarVisibility": "toggle",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "emmet.showSuggestionsAsSnippets": true,
+  "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+  "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+  "editor.fontFamily": "'Fira Code Retina', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "bracket-pair-colorizer-2.highlightActiveScope": true,
+  "editor.matchBrackets": false,
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "javascript.suggest.autoImports": false
+}
