@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.0.2
+
+- update vsCode user settings (Fedora)
+- added snippets for JavaScript and TypeScript
+
 ## v0.0.1
 
 - created changelog
