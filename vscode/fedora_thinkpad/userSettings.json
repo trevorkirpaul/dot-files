@@ -1,10 +1,14 @@
 {
+  "workbench.colorCustomizations": {
+    "editorGutter.addedBackground": "#abffa0",
+    "editorGutter.modifiedBackground": "#b56df0",
+    "editorGutter.deletedBackground": "#ff0000"
+  },
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
   "editor.fontWeight": "400",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "workbench.colorTheme": "Night Owl No Italics",
   "workbench.startupEditor": "none",
   "editor.cursorStyle": "block",
   "workbench.statusBar.feedback.visible": false,
@@ -46,6 +50,8 @@
   "bracket-pair-colorizer-2.highlightActiveScope": true,
   "editor.matchBrackets": false,
   "workbench.activityBar.visible": false,
-  "workbench.statusBar.visible": false,
-  "javascript.suggest.autoImports": false
+  "workbench.statusBar.visible": true,
+  "javascript.suggest.autoImports": false,
+  "workbench.colorTheme": "Dainty – Dark+ Reimagined",
+  "gitlens.hovers.currentLine.over": "line"
 }
