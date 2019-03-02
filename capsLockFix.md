@@ -24,3 +24,22 @@ Rather than typing these commands into the terminal every time we have a new ses
 I chose to store them in my `.zshrc` file but any start up file should do.
 
 I feel like `xcape` can be levarged to handle all of the above changes but for now I have everything working exactly the way I want. 
+
+# Using `udev`
+
+1. /etc/udev/hwdb.d/keyboard-tweaks.hdwb:
+
+```
+evdev:atkbd:dmi:*            # built-in keyboard: match all AT keyboards for now
+ KEYBOARD_KEY_3a=leftctrl    # bind capslock to leftctrl
+ KEYBOARD_KEY_1d=capslock    # bind leftctrl to capslock
+```
+
+2. run these commands in the terminal to use the config:
+
+```
+sudo udevadm hwdb --update
+sudo udevadm trigger
+```
+
+
