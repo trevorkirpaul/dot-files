@@ -1,23 +1,25 @@
 source ~/antigen.zsh
 
 # set editor to vim
-export EDITOR="vim"
+export EDITOR="nvim"
+
+# neovim
+alias vi="nvim"
+
+# create nvmrc file with current node version
+alias nvmrc="node -v > .nvmrc"
+
+# neofetch
+alias n="neofetch --off"
 
 # Use Insiders VSCode with code
-alias code="code-insiders"
+# alias code="code-insiders"
 
 # Open location in GUI file browser
 alias open="xdg-open"
 
 # List branches in descending order of latest commit
 alias gbLatest="git branch --sort=-committerdate"
-
-# ssh into tkirpaul@gmail digital ocean vps: headless-cms
-# USERNAME REMOVED + IP REMOVED
-alias ssh-headless-cms="ssh xxxxx@xxxxx"
-
-# Doesn't work on wayland, should remove
-xcape -e 'Control_L=Escape'
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
@@ -42,8 +44,9 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
 
-antigen theme clean
+antigen theme wezm
 
 
 # Tell Antigen that you're done.
 antigen apply
+

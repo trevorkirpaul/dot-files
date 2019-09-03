@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.3
+
+- updated nvim and zshrc for thinkpad
+
 ## v0.0.2
 
 - update vsCode user settings (Fedora)
