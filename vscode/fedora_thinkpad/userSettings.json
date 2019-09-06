@@ -1,4 +1,6 @@
 {
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
   "workbench.colorCustomizations": {
     "editorGutter.addedBackground": "#abffa0",
     "editorGutter.modifiedBackground": "#b56df0",
@@ -27,7 +29,7 @@
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeightBold": "400",
   "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.folders.color": "#90a4ae",
+  "material-icon-theme.folders.color": "#ef5350",
   "material-icon-theme.activeIconPack": "react_redux",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
@@ -47,9 +49,21 @@
   "workbench.activityBar.visible": false,
   "workbench.statusBar.visible": true,
   "javascript.suggest.autoImports": false,
-  "workbench.colorTheme": "Dainty – Ayu Mirage",
   "gitlens.hovers.currentLine.over": "line",
   "bracket-pair-colorizer-2.forceIterationColorCycle": true,
   "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
-  "bracket-pair-colorizer-2.highlightActiveScope": true
+  "bracket-pair-colorizer-2.highlightActiveScope": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "workbench.colorTheme": "Dainty – Dracula",
+  "window.customMenuBarAltFocus": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": ["cloudinary", "paracord"],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
